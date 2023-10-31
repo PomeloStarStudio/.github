@@ -1,4 +1,4 @@
-# PomeloStar Studio 2023-2024
+# PomeloStar 2023-2024
 ![IMG](https://github.com/PomeloStarStudio/.github/blob/main/profile/PomeloStarStudio.png)
 > Anything is possible
 
